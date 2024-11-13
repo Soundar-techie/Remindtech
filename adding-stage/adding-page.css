@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(242, 240, 237);
+}
+.entry{
+    margin-top: 10%;
+    margin-left:30% ;
+    position: relative;
+   
+
+
+}
+label{
+    color: rgb(106, 207, 153);
+    font-size: xx-large;
+    font-family: bold;
+}
+input{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(166, 222, 203);
+}
+#button{
+    margin-top: 150px;
+    margin-left: 40px;
+    width: 100px;
+    background-color: brown;
+}
+
+#img{
+   margin-top: 40px;
+    width: 100px;
+    height: 70px;
+    border: 1px solid red;
+   position: absolute;
+}
